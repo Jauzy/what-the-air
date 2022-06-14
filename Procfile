@@ -1,0 +1,1 @@
+web: bokeh serve --allow-websocket-origin=https://visdat-bokeh-covid.herokuapp.com ./main
